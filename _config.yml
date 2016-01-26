@@ -24,7 +24,7 @@ description: Hi, I am Rohan Verma, a second year undergrad student from India. P
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/dp.jpg"
+avatar: "/img/dp-square.jpg"
 
 # List of links in the navigation bar
 navbar-links:
@@ -63,7 +63,7 @@ url-pretty: "Rohan Verma"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "rhnvrm"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
