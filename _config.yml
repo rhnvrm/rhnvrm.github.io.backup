@@ -29,8 +29,9 @@ avatar: "/img/dp.jpg"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About Me: "aboutme"
-  Author's home: "rhnvrm.github.io"
+  About Me: "about_me.html"
+  Blog: "http://rohanverma.cf/"
+  CV:   "#"
   
 # --- Footer options --- #
 
@@ -42,7 +43,7 @@ author:
   facebook: rhnvrm  # eg. daattali
   github: rhnvrm    # eg. daattali
   twitter: rhnvrm   # eg. daattali
-  linkedin: "https://www.linkedin.com/in/rhnvrm"  # eg. "pub/dean-attali/8/946/143"
+  linkedin: "in/rhnvrm"  # eg. "pub/dean-attali/8/946/143"
   stackoverflow: "790971/rohan-verma"  # eg. "3943160/daattali"
  
 # Select which links to show in the footer
