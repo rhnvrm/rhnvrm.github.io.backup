@@ -72,7 +72,7 @@ disqus: "rhnvrmgithubio"
 # Output options (more information on Jekyll's site)
 timezone: "IST"
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:year-:month-:day-:title
 paginate: 5
 
