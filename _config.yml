@@ -17,8 +17,7 @@ baseurl: ""
 title: Rohan Verma
 
 # Short description of your site
-description: Hi, I am Rohan Verma, a second year undergrad student from India. Presently, I am looking for exciting Summer 2016 Software Engineering Internship Opportunities.
- 
+description: My Blog
 
 # --- Navigation bar options --- #
 
@@ -29,8 +28,8 @@ avatar: "/img/dp-square.jpg"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About Me: "about_me.html"
-  Blog: "http://rohanverma.cf/"
+  About Me: "#"
+  Blog: "#"
   CV:   "#"
   
 # --- Footer options --- #
@@ -48,7 +47,7 @@ author:
  
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
+  rss: true
   facebook: true
   email: true
   twitter: true
