@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Participating in GSoC 2016
+title: Participating in Google Summer of Code 2016
 tags:
 - gsoc
 ---
